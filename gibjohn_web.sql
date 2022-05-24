@@ -195,9 +195,6 @@ CREATE TABLE `users` (
 
 INSERT INTO `users` (`UserID`, `LegalFullName`, `PrefferedFullName`, `PasswordHash`, `ContactEmail`, `PhoneNumber`, `UserRole`, `AccountStatus`, `DateOfBirth`, `DateOfEnrollment`, `MainRoleTitle`) VALUES
 (1, 'Admin', 'Admin', '$2y$10$q8XDyLkk9mltzg1Y6KhGg.V.ipQ5ZPr32L5jh8o1PCRQruuLfAOgm', 'admin@conni.lgbt', '1', 'Admin', 'ACTIVE', NULL, '2022-05-11 14:34:13.154756', 'Administrator'),
-(33, 'Conni Bilham', 'Conni Bilham', '$2y$10$q8XDyLkk9mltzg1Y6KhGg.V.ipQ5ZPr32L5jh8o1PCRQruuLfAOgm', 'me@conni.lgbt', '07729686551', 'Admin', 'ACTIVE', '2004-07-23 13:43:18.000000', '2022-05-11 13:18:41.297521', 'Head of Something'),
-(35, 'Testing User - Legal Name', 'Testing User - Preferred Name', '$2y$10$q8XDyLkk9mltzg1Y6KhGg.V.ipQ5ZPr32L5jh8o1PCRQruuLfAOgm', 'testing-user-1@example.com', '0123456789', 'Student', 'ACTIVE', '1982-05-11 10:27:15.000000', '2022-05-12 08:21:35.218516', 'Student'),
-(36, 'Lucy Coward', 'Lucy Coward', '$2y$10$q8XDyLkk9mltzg1Y6KhGg.V.ipQ5ZPr32L5jh8o1PCRQruuLfAOgm', 'lucy@conni.lgbt', '0772439332498', 'Student', 'ACTIVE', '2001-12-21 14:43:18.000000', '2022-05-11 13:18:41.297521', 'Student'),
 (37, '', '123', '$2y$10$q8XDyLkk9mltzg1Y6KhGg.V.ipQ5ZPr32L5jh8o1PCRQruuLfAOgm', 'Test@test.com123', '123', '', 'BANNED', NULL, '2022-05-18 08:28:50.870922', '123');
 
 -- --------------------------------------------------------
