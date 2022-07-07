@@ -1,8 +1,12 @@
 # T-Level Exam Final - Learner Management System
 For my final T-Level exam i created this LMS system <br>
 
-## Demo Login Details
+## Demo Student Login Details
 Username: DemoStudent01 <br>
+Password: <br>
+
+## Demo Tutor Login Details
+Username: DemoTutor01 <br>
 Password: <br>
 
 ## Demos
